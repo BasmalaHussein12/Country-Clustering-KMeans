@@ -47,6 +47,10 @@ I used:
 * **Elbow Method** to observe how the inertia changes with different numbers of clusters.
 * **Silhouette Score** to check how well the data points are separated into clusters.
 
+![K-Means Clusters](images/Elbow Method for Different Numbers of Clusters.png)
+
+![K-Means Clusters](images/Silhouette Score for Different Numbers of Clusters.png)
+
 Based on the results, I chose **3 clusters**.
 
 ### 6. Cluster Analysis
@@ -63,7 +67,6 @@ I used **PCA (Principal Component Analysis)** to reduce the 9-dimensional featur
 
 ![K-Means Clusters](images/kmeans_clusters_pca2.png)
 
-![K-Means Clusters](images/Silhouette Score for Different Numbers of Clusters.png)
 
 ## Results
 
