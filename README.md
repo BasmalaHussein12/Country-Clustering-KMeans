@@ -47,9 +47,9 @@ I used:
 * **Elbow Method** to observe how the inertia changes with different numbers of clusters.
 * **Silhouette Score** to check how well the data points are separated into clusters.
 
-![K-Means Clusters](images/Elbow Method for Different Numbers of Clusters.png)
+![K-Means Clusters](images/Elbow_Method_for_Different_Numbers_of_Clusters.png)
 
-![K-Means Clusters](images/Silhouette Score for Different Numbers of Clusters.png)
+![K-Means Clusters](images/Silhouette_Score_for_Different_Numbers_of_Clusters.png)
 
 Based on the results, I chose **3 clusters**.
 
@@ -63,7 +63,7 @@ The clusters showed differences in economic, health, and demographic conditions.
 
 I used **PCA (Principal Component Analysis)** to reduce the 9-dimensional feature space to 2 dimensions and visualize the three clusters in one graph.
 
-![K-Means Clusters](images/kmeans_clusters_pca 1.png)
+![K-Means Clusters](images/kmeans_clusters_pca1.png)
 
 ![K-Means Clusters](images/kmeans_clusters_pca2.png)
 
