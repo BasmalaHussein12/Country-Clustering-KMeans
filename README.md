@@ -59,7 +59,10 @@ The clusters showed differences in economic, health, and demographic conditions.
 
 I used **PCA (Principal Component Analysis)** to reduce the 9-dimensional feature space to 2 dimensions and visualize the three clusters in one graph.
 
-![K-Means Clusters](images/kmeans_clusters_pca.png)
+![K-Means Clusters](images/kmeans_clusters_pca1.png)
+
+![K-Means Clusters](images/kmeans_clusters_pca2.png)
+
 
 ## Results
 
